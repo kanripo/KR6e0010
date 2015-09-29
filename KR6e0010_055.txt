@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.146566
+#+DATE: 2015-09-28 22:53:43.712639
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_055-0288c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 55
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十五¶
+《大方廣佛華嚴經》卷第五十五¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 離世間品第三十八之三
-:END:
-¶
+離世間品第三十八之三¶
 
 「佛子！菩薩摩訶薩發十種無下劣心。何等為¶
 十？佛子！菩薩摩訶薩作如是念：『我當降伏一¶
@@ -36,7 +31,7 @@
 六無下劣心。又作是念：『我當以無上教化、無¶
 上調伏，教化調伏一切眾生。』是為第七無下¶
 劣心。又作是念：『一切世界種種不同，我當以¶
-無量身成等正覺。』是為第八無下劣心。又¶
+無量身我等正覺。』是為第八無下劣心。又¶
 作是念：『我修菩薩行時，若有眾生來從我乞¶
 手足、耳鼻、血肉、骨髓、妻子、象馬乃至王位，如¶
 是一切悉皆能捨，不生一念憂悔之心，但為¶

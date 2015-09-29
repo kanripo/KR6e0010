@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.992232
+#+DATE: 2015-09-28 22:53:43.562668
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_050-0262a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十¶
+《大方廣佛華嚴經》卷第五十¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯三藏實叉難陀奉　制譯¶
 
-37如來出現品
-之一
-:PROPERTIES:
-:head: 如來出現品第三十七之一
-:END:
-¶
+如來出現品第三十七之一¶
 
 爾時，世尊從眉間白毫相中放大光明，名：如¶
 來出現，無量百千億那由他阿僧祇光明以¶
@@ -661,7 +655,7 @@
 終，作是念言：『我命終後，一切眾生無所依怙，¶
 我今宜應為現方便。』是時，醫王合藥塗身，明¶
 呪力持，令其終後身不分散、不萎不枯，威儀¶
-視聽與本無別，凡所𤻲治悉得除差。佛子！¶
+視聽與本無別，凡所[病-丙+樂]治悉得除差。佛子！¶
 如來、應、正等覺無上醫王亦復如是，於無量
 <pb:KR6e0010_T_050-0267b>¶
 百千億那由他劫，鍊治法藥已得成就，修¶

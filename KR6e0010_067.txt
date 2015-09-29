@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.563080
+#+DATE: 2015-09-28 22:53:44.120075
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_067-0360a> 
 #+PROPERTY: JUAN 67
 ¶
-
- 《大方廣佛華嚴經》卷第六十七¶
+《大方廣佛華嚴經》卷第六十七¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之八
-:PROPERTIES:
-:head: 入法界品第三十九之八
-:END:
-¶
+入法界品第三十九之八¶
 
 爾時，善財童子於不動優婆夷所得聞法已，¶
 專心憶念所有教誨，皆悉信受，思惟觀察。
@@ -165,7 +160,7 @@
 法莫不皆得離垢三昧。善男子！羅剎界中
 <pb:KR6e0010_T_067-0361b>¶
 有香，名：海藏，其香但為轉輪王用；若燒一丸¶
-而以熏之，王及四軍皆騰虛空。善男子！善¶
+而以熏之，三及四軍皆騰虛空。善男子！善¶
 法天中有香，名：淨莊嚴；若燒一丸而以熏之，¶
 普使諸天心念於佛。善男子！須夜摩天有香，¶
 名：淨藏；若燒一丸而以熏之，夜摩天眾莫不¶

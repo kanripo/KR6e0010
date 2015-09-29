@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.200021
+#+DATE: 2015-09-28 22:53:42.752341
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_024-0127b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十四¶
+《大方廣佛華嚴經》卷第二十四¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 十迴向品第二十五之二
-:END:
-¶
+十迴向品第二十五之二¶
 
 「佛子！云何為菩薩摩訶薩不壞迴向？
 

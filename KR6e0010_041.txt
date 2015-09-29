@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.703425
+#+DATE: 2015-09-28 22:53:43.285460
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_041-0215a> 
 #+PROPERTY: JUAN 41
 ¶
-
- 《大方廣佛華嚴經》卷第四十一¶
+《大方廣佛華嚴經》卷第四十一¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 十定品第二十七之二
-:END:
-¶
+十定品第二十七之二¶
 
 「佛子！云何為菩薩摩訶薩次第遍往諸佛國¶
 土神通三昧？佛子！此菩薩摩訶薩過於東方¶
@@ -94,7 +89,7 @@
 第中諸佛壽命次第，壽命次第中知億那由¶
 他年歲數量次第。佛子！此菩薩摩訶薩得如¶
 是無邊次第智故，則知過去諸佛，則知過去¶
-諸剎，則知過去諸法門，則知過去諸劫，則知過¶
+諸剎，則知過去法門，則知過去諸劫，則知過¶
 去諸法，則知過去諸心，則知過去諸解，則知¶
 過去諸眾生，則知過去諸煩惱，則知過去諸¶
 儀式，則知過去諸清淨。佛子！此三昧名：過去¶
