@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.533702
+#+DATE: 2015-09-28 22:54:17.783151
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_005-0021c> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《大方廣佛華嚴經》卷第五¶
+《大方廣佛華嚴經》卷第五¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之五
-:PROPERTIES:
-:head: 世主妙嚴品第一之五
-:END:
-¶
+世主妙嚴品第一之五¶
 
 復次，普賢菩薩摩訶薩，入不思議解脫門方¶
 便海，入如來功德海。所謂：有解脫門，名：嚴¶
@@ -160,7 +155,7 @@
 一切佛法解脫門；普智雲日幢菩薩摩訶薩，¶
 得成就如來智永住無量劫解脫門；大精進
 <pb:KR6e0010_T_005-0022c>¶
-金剛𪗇菩薩摩訶薩，得普入一切無邊法印¶
+金剛[齋-示+(二/月)]菩薩摩訶薩，得普入一切無邊法印¶
 力解脫門；香焰光幢菩薩摩訶薩，得顯示現¶
 在一切佛始修菩薩行乃至成就智慧聚解脫¶
 門；大明德深美音菩薩摩訶薩，得安住毘盧¶

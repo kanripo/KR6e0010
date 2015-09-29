@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.791681
+#+DATE: 2015-09-28 22:54:19.054683
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_044-0229c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 44
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第四十四¶
+《大方廣佛華嚴經》卷第四十四¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-28十通品
-:PROPERTIES:
-:head: 十通品第二十八
-:END:
-¶
+十通品第二十八¶
 
 爾時，普賢菩薩摩訶薩告諸菩薩言：
 
@@ -267,11 +262,7 @@
 子！是為菩薩摩訶薩十種神通。若菩薩摩訶¶
 薩住此神通，悉得一切三世無礙智神通。」¶
 
-29十忍品
-:PROPERTIES:
-:head: 十忍品第二十九
-:END:
-¶
+十忍品第二十九¶
 
 爾時，普賢菩薩告諸菩薩言：
 

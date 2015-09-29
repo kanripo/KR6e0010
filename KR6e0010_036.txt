@@ -1,32 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.554983
+#+DATE: 2015-09-28 22:54:18.806414
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_036-0189b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 
- 《大方廣佛華嚴經》卷第三十六¶
+《大方廣佛華嚴經》卷第三十六¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 十地品第二十六之三
-:END:
-
-第四地
-:PROPERTIES:
-:head: 第四地
-:END:
-¶
+十地品第二十六之三
+第四地¶
 
 #+BEGIN_VERSE
 「　佛子聞此廣大行，
@@ -243,11 +233,7 @@
 #+END_VERSE
 」¶
 
-第五地
-:PROPERTIES:
-:head: 第五地
-:END:
-¶
+第五地¶
 
 #+BEGIN_VERSE
 「　菩薩聞此勝地行，
