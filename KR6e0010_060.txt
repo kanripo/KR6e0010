@@ -1,26 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.315595
+#+DATE: 2015-09-28 22:54:01.539189
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_060-0319a> 
 #+PROPERTY: JUAN 60
 ¶
-
- 《大方廣佛華嚴經》卷第六十¶
+《大方廣佛華嚴經》卷第六十¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-39入法界品
-之一
-:PROPERTIES:
-:head: 入法界品第三十九之一
-:END:
-¶
+入法界品第三十九之一¶
 
 爾時，世尊在室羅筏國逝多林給孤獨園大¶
 莊嚴重閣，與菩薩摩訶薩五百人俱，普賢菩¶
@@ -392,7 +386,7 @@
 
 于時，上首諸大聲聞——舍¶
 利弗、大目揵連、摩訶迦葉、離婆多、須菩提、¶
-阿㝹樓馱、難陀、劫賓那、迦旃延、富樓那等¶
+阿[少/兔]樓馱、難陀、劫賓那、迦旃延、富樓那等¶
 諸大聲聞，在逝多林皆悉不見如來神力、如¶
 來嚴好、如來境界、如來遊戲、如來神變、如來¶
 尊勝、如來妙行、如來威德、如來住持、如來淨¶

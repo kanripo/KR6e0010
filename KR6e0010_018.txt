@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.004288
+#+DATE: 2015-09-28 22:54:00.209643
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_018-0095a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十八¶
+《大方廣佛華嚴經》卷第十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-18明法品
-:PROPERTIES:
-:head: 明法品第十八
-:END:
-¶
+明法品第十八¶
 
 爾時，精進慧菩薩白法慧菩薩言：
 

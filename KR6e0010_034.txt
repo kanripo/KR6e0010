@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.493170
+#+DATE: 2015-09-28 22:54:00.706536
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_034-0178b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十四¶
+《大方廣佛華嚴經》卷第三十四¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-26十地品
-之一
-:PROPERTIES:
-:head: 十地品第二十六之一
-:END:
-¶
+十地品第二十六之一¶
 
 爾時，世尊在他化自在天王宮摩尼寶藏殿，
 <pb:KR6e0010_T_034-0178c>¶
@@ -377,10 +371,6 @@
 」¶
 
 第一地
-:PROPERTIES:
-:head: 第一地
-:END:
-
 
 「佛子！若有眾生深種善根，善修諸行，善集助¶
 道，善供養諸佛，善集白淨法，為善知識，善攝¶

@@ -1,31 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.582504
+#+DATE: 2015-09-28 22:54:00.796082
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_037-0193b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十七¶
+《大方廣佛華嚴經》卷第三十七¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之四
-:PROPERTIES:
-:head: 十地品第二十六之四
-:END:
-
-第六地
-:PROPERTIES:
-:head: 第六地
-:END:
-¶
+十地品第二十六之四
+第六地¶
 
 #+BEGIN_VERSE
 「　菩薩既聞諸勝行，
@@ -330,11 +321,7 @@
 #+END_VERSE
 」¶
 
-第七地
-:PROPERTIES:
-:head: 第七地
-:END:
-¶
+第七地¶
 
 #+BEGIN_VERSE
 「　是時天眾心歡喜，

@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.698572
+#+DATE: 2015-09-28 22:54:01.895940
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_071-0384a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 71
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第七十一¶
+《大方廣佛華嚴經》卷第七十一¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯三藏實叉難陀奉　制譯¶
 
-之十二
-:PROPERTIES:
-:head: 入法界品第三十九之十二
-:END:
-¶
+入法界品第三十九之十二¶
 
 爾時，善財童子於普救眾生妙德夜神所，聞¶
 菩薩普現一切世間調伏眾生解脫門，了知¶
