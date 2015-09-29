@@ -1,26 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.678659
+#+DATE: 2015-09-28 22:54:22.614600
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_040-0211a> 
 #+PROPERTY: JUAN 40
 ¶
-
- 《大方廣佛華嚴經》卷第四十¶
+《大方廣佛華嚴經》卷第四十¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-27十定品
-之一
-:PROPERTIES:
-:head: 十定品第二十七之一
-:END:
-¶
+十定品第二十七之一¶
 
 爾時，世尊在摩竭提國阿蘭若法菩提場中¶
 始成正覺，於普光明殿入剎那際諸佛三昧，¶

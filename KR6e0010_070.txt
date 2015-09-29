@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.660992
+#+DATE: 2015-09-28 22:54:23.615960
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_070-0378a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 70
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第七十¶
+《大方廣佛華嚴經》卷第七十¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之十一
-:PROPERTIES:
-:head: 入法界品第三十九之十一
-:END:
-¶
+入法界品第三十九之十一¶
 
 爾時，善財童子於喜目觀察眾生夜神所，聞¶
 普喜幢解脫門，信解趣入，了知隨順，思惟修¶

@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.891669
+#+DATE: 2015-09-28 22:54:22.844617
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_047-0246b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第四十七¶
+《大方廣佛華嚴經》卷第四十七¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-:PROPERTIES:
-:head: 佛不思議法品第三十三之二
-:END:
-¶
+佛不思議法品第三十三之二¶
 
 「佛子！諸佛世尊有十種廣大佛事，無量無邊，¶
 不可思議，一切世間諸天及人皆不能知，去、¶

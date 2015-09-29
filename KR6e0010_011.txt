@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.746032
+#+DATE: 2015-09-28 22:54:21.641377
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_011-0053c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十一¶
+《大方廣佛華嚴經》卷第十一¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-6毘盧遮那品
-:PROPERTIES:
-:head: 毘盧遮那品第六
-:END:
-¶
+毘盧遮那品第六¶
 
 爾時，普賢菩薩復告大眾言：
 

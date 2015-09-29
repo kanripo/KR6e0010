@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.563080
+#+DATE: 2015-09-28 22:54:23.510103
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0010_T_067-0360a> 
 #+PROPERTY: JUAN 67
 ¶
-
- 《大方廣佛華嚴經》卷第六十七¶
+《大方廣佛華嚴經》卷第六十七¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之八
-:PROPERTIES:
-:head: 入法界品第三十九之八
-:END:
-¶
+入法界品第三十九之八¶
 
 爾時，善財童子於不動優婆夷所得聞法已，¶
 專心憶念所有教誨，皆悉信受，思惟觀察。
