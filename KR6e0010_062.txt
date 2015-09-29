@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.389106
+#+DATE: 2015-09-28 22:53:47.389264
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_062-0331c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 62
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六十二¶
+《大方廣佛華嚴經》卷第六十二¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 入法界品第三十九之三
-:END:
-¶
+入法界品第三十九之三¶
 
 爾時，文殊師利菩薩勸諸比丘發阿耨多羅¶
 三藐三菩提心已，漸次南行，經歷人間，至福

@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.004288
+#+DATE: 2015-09-28 22:53:46.093791
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_018-0095a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十八¶
+《大方廣佛華嚴經》卷第十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-18明法品
-:PROPERTIES:
-:head: 明法品第十八
-:END:
-¶
+明法品第十八¶
 
 爾時，精進慧菩薩白法慧菩薩言：
 
@@ -33,7 +28,7 @@
 薩所住之處，一切大行皆得清淨，所有大¶
 願悉使滿足，獲諸菩薩廣大之藏，隨所應
 <pb:KR6e0010_T_018-0095b>¶
-化常為說法，而恒不捨波羅蜜行，所念眾¶
+化當為說法，而恒不捨波羅蜜行，所念眾¶
 生咸令得度，紹三寶種使不斷絕，善根方¶
 便皆悉不虛？佛子！彼諸菩薩以何方便，能¶
 令此法當得圓滿？願垂哀愍，為我宣說；此諸¶

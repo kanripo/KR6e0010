@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.031851
+#+DATE: 2015-09-28 22:53:47.054955
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_051-0268a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 51
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十一¶
+《大方廣佛華嚴經》卷第五十一¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 如來出現品第三十七之二
-:END:
-¶
+如來出現品第三十七之二¶
 
 「佛子！菩薩摩訶薩應云何知如來、應、正等覺¶
 音聲？
@@ -115,7 +110,7 @@
 「復次，佛子！譬如大¶
 梵天王住於梵宮出梵音聲，一切梵眾靡不¶
 皆聞，而彼音聲不出眾外。諸梵天眾咸生是¶
-念：『大梵天王獨與我語。』如來妙音亦復如¶
+念：『大梵天王獨為我語。』如來妙音亦復如¶
 是，道場眾會靡不皆聞，而其音聲不出眾¶
 外。何以故？根未熟者不應聞故。其聞音者¶
 皆作是念：『如來世尊獨為我說。』佛子！如來¶

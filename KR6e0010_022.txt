@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.134217
+#+DATE: 2015-09-28 22:53:46.207659
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_022-0115a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
-
- 《大方廣佛華嚴經》卷第二十二¶
+《大方廣佛華嚴經》卷第二十二¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-23昇兜率天宮品
-:PROPERTIES:
-:head: 昇兜率天宮品第二十三
-:END:
-¶
+昇兜率天宮品第二十三¶
 
 爾時，佛神力故，十方一切世界，一一四天下¶
 閻浮提中，皆見如來坐於樹下，各有菩薩承¶

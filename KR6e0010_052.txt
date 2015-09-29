@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.064567
+#+DATE: 2015-09-28 22:53:47.085246
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_052-0273c> 
 #+PROPERTY: JUAN 52
 ¶
-
- 《大方廣佛華嚴經》卷第五十二¶
+《大方廣佛華嚴經》卷第五十二¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 如來出現品第三十七之三
-:END:
-¶
+如來出現品第三十七之三¶
 
 「佛子！菩薩摩訶薩應云何知如來、應、正等覺¶
 境界？佛子！菩薩摩訶薩以無障無礙智慧，知¶

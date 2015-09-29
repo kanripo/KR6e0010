@@ -1,30 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.611631
+#+DATE: 2015-09-28 22:53:46.685361
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_038-0198c> 
 #+PROPERTY: JUAN 38
 ¶
-
- 《大方廣佛華嚴經》卷第三十八¶
+《大方廣佛華嚴經》卷第三十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之五
-:PROPERTIES:
-:head: 十地品第二十六之五
-:END:
-
-第八地
-:PROPERTIES:
-:head: 第八地
-:END:
-¶
+十地品第二十六之五
+第八地¶
 
 #+BEGIN_VERSE
 「　是時天王及天眾，
@@ -401,11 +392,7 @@
 #+END_VERSE
 」¶
 
-第九地
-:PROPERTIES:
-:head: 第九地
-:END:
-¶
+第九地¶
 
 #+BEGIN_VERSE
 「　說此菩薩八地時，

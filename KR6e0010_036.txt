@@ -1,32 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.554983
+#+DATE: 2015-09-28 22:53:46.625420
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_036-0189b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 
- 《大方廣佛華嚴經》卷第三十六¶
+《大方廣佛華嚴經》卷第三十六¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 十地品第二十六之三
-:END:
-
-第四地
-:PROPERTIES:
-:head: 第四地
-:END:
-¶
+十地品第二十六之三
+第四地¶
 
 #+BEGIN_VERSE
 「　佛子聞此廣大行，
@@ -243,11 +233,7 @@
 #+END_VERSE
 」¶
 
-第五地
-:PROPERTIES:
-:head: 第五地
-:END:
-¶
+第五地¶
 
 #+BEGIN_VERSE
 「　菩薩聞此勝地行，
@@ -334,7 +320,7 @@
 智已，如實知一切有為法虛妄、詐偽、誑惑愚¶
 夫。菩薩爾時，於諸眾生轉增大悲，生大慈光¶
 明。佛子！此菩薩摩訶薩得如是智力，不捨一¶
-切眾生，常求佛智，如實觀一切有為行前¶
+切眾生，常求佛智，如實觀一切有為無前¶
 際、後際。知從前際無明、有、愛，故生生死流轉，¶
 於諸蘊宅不能動出，增長苦聚；無我、無壽者、¶
 無養育者、無更數取後趣身者，離我、我所。如¶
