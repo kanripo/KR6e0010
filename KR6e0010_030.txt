@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.376567
+#+DATE: 2015-09-28 22:53:39.306798
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_030-0160c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十¶
+《大方廣佛華嚴經》卷第三十¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯三藏實叉難陀奉　制譯¶
 
-之八
-:PROPERTIES:
-:head: 十迴向品第二十五之八
-:END:
-¶
+十迴向品第二十五之八¶
 
 「佛子！何者是菩薩摩訶薩真如相迴向？
 
@@ -317,7 +312,7 @@
 菩提心，大誓莊嚴，永無退捨。譬如真如，普攝¶
 一切世間言音；善根迴向亦復如是，能得一¶
 切差別言音神通智慧，普發一切種種言¶
-辭。譬如真如，於一切法無所希求；善根迴¶
+詞。譬如真如，於一切法無所希求；善根迴¶
 向亦復如是，令諸眾生乘普賢乘而得出離，¶
 於一切法無所貪求。譬如真如，住一切地；善¶
 根迴向亦復如是，令一切眾生捨世間地，住¶
