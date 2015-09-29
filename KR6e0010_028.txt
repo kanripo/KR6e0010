@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.310321
+#+DATE: 2015-09-28 22:54:15.038667
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_028-0150a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十八¶
+《大方廣佛華嚴經》卷第二十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之六
-:PROPERTIES:
-:head: 十迴向品第二十五之六
-:END:
-¶
+十迴向品第二十五之六¶
 
 「佛子！菩薩摩訶薩若見如來出興於世開演¶
 正法，以大音聲普告一切：『如來出世！如來出¶
@@ -265,7 +260,7 @@
 
 「佛子！菩薩摩訶¶
 薩所有一切內宮眷屬、妓侍眾女，皆顏貌端¶
-正、才能具足，談笑歌舞悉皆巧妙，種種衣¶
+正、材能具足，談笑歌舞悉皆巧妙，種種衣¶
 服、種種華香而以嚴身，見者歡喜，情無厭¶
 足。如是寶女百千萬億那由他數，皆由菩¶
 薩善業所生，隨意自在，敬順無失；盡以布¶

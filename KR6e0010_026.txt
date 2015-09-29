@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.256264
+#+DATE: 2015-09-28 22:54:14.985416
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6e0010_T_026-0138a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
-
- 《大方廣佛華嚴經》卷第二十六¶
+《大方廣佛華嚴經》卷第二十六¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之四
-:PROPERTIES:
-:head: 十迴向品第二十五之四
-:END:
-¶
+十迴向品第二十五之四¶
 
 「佛子！菩薩摩訶薩以種種車，眾寶嚴飾，奉施¶
 諸佛及諸菩薩、師長、善友、聲聞、緣覺，如是無¶
@@ -492,7 +487,7 @@
 「佛子！菩薩摩訶薩見有獄囚五¶
 處被縛，受諸苦毒；防衛驅逼，將之死地，欲斷¶
 其命，捨閻浮提一切樂具，親戚、朋友悉將永¶
-訣，置高碪上以刀屠割，或用木槍豎貫其¶
+訣，置高碪上以刀屠割，或用木鏘豎貫其¶
 體，衣纏油沃以火焚燒，如是等苦，種種逼迫。¶
 菩薩見已，自捨其身而代受之；如阿逸多菩
 <pb:KR6e0010_T_026-0144a>¶
