@@ -1,26 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.678659
+#+DATE: 2015-09-28 22:54:26.356590
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_040-0211a> 
 #+PROPERTY: JUAN 40
 ¶
-
- 《大方廣佛華嚴經》卷第四十¶
+《大方廣佛華嚴經》卷第四十¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-27十定品
-之一
-:PROPERTIES:
-:head: 十定品第二十七之一
-:END:
-¶
+十定品第二十七之一¶
 
 爾時，世尊在摩竭提國阿蘭若法菩提場中¶
 始成正覺，於普光明殿入剎那際諸佛三昧，¶
@@ -321,7 +315,7 @@
 日影更相照現，無有邊際，體性非有，亦¶
 復非無，不住於山，不離於山，不住於水，亦¶
 不離水。佛子！菩薩摩訶薩亦復如是，住此¶
-妙光廣大三昧，不壞世間安立之相，不滅¶
+妙光廣大三昧，不壞世界安立之相，不滅¶
 世間諸法自性；不住世界內，不住世界外；於¶
 諸世界無所分別，亦不壞於世界之相；觀一¶
 切法一相無相，亦不壞於諸法自性；住真如¶

@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.004288
+#+DATE: 2015-09-28 22:54:25.684757
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_018-0095a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十八¶
+《大方廣佛華嚴經》卷第十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-18明法品
-:PROPERTIES:
-:head: 明法品第十八
-:END:
-¶
+明法品第十八¶
 
 爾時，精進慧菩薩白法慧菩薩言：
 
@@ -54,7 +49,7 @@
 來、應、正等覺百千阿僧祇劫修菩薩行時所¶
 集法藏，悉能守護，開示演說，諸魔外道無¶
 能沮壞，攝持正法無有窮盡；於一切世界演¶
-說法時，天王、龍王、夜叉王、乾闥婆王、阿脩羅王、¶
+說法時，天王、夜叉王、乾闥婆王、阿脩羅王、¶
 迦樓羅王、緊那羅王、摩睺羅伽王、人王、梵¶
 王、如來法王，皆悉守護；一切世間，恭敬供養，¶
 同灌其頂；常為諸佛之所護念，一切菩薩亦¶

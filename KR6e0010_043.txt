@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.760580
+#+DATE: 2015-09-28 22:54:26.431331
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_043-0223c> 
 #+PROPERTY: JUAN 43
 ¶
-
- 《大方廣佛華嚴經》卷第四十三¶
+《大方廣佛華嚴經》卷第四十三¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之四
-:PROPERTIES:
-:head: 十定品第二十七之四
-:END:
-¶
+十定品第二十七之四¶
 
 「佛子！云何為菩薩摩訶薩無礙輪三昧？佛子！¶
 菩薩摩訶薩入此三昧時，住無礙身業、無礙¶

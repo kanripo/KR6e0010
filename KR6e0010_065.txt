@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.496043
+#+DATE: 2015-09-28 22:54:27.222254
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_065-0348a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 65
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六十五¶
+《大方廣佛華嚴經》卷第六十五¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏三藏實叉難陀奉　制譯¶
 
-之六
-:PROPERTIES:
-:head: 入法界品第三十九之六
-:END:
-¶
+入法界品第三十九之六¶
 
 爾時，善財童子於善知識所，起最極尊重心，¶
 生廣大清淨解，常念大乘，專求佛智，願見諸¶
@@ -504,7 +499,7 @@
 德道，修彼福德種。
 
 漸次而行，至大興城，周遍¶
-推求明智居士。於善知識心生渴仰，以善¶
+推求明智長者。於善知識心生渴仰，以善¶
 知識熏習其心，於善知識志欲堅固，方便求¶
 見諸善知識心不退轉，願得承事諸善知識¶
 心無懈倦；知由依止善知識故，能滿眾善；知¶

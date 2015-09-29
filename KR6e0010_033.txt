@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.462476
+#+DATE: 2015-09-28 22:54:26.152527
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_033-0174c> 
 #+PROPERTY: JUAN 33
 ¶
-
- 《大方廣佛華嚴經》卷第三十三¶
+《大方廣佛華嚴經》卷第三十三¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之十一
-:PROPERTIES:
-:head: 十迴向品第二十五之十一
-:END:
-¶
+十迴向品第二十五之十一¶
 
 「佛子！菩薩摩訶薩復以法施所修善根如是¶
 迴向：『願一切佛剎皆悉清淨，以不可說不可¶
@@ -230,7 +225,7 @@
 自在力、無礙自在力、不思議自在力、淨一切¶
 眾生自在力、立一切世界自在力、現不可說¶
 語言自在力、隨時應現自在力、住不退轉神¶
-通智自在力、演說一切無邊法界𢔌無有餘¶
+通智自在力、演說一切無邊法界[彳*卑]無有餘¶
 自在力、出生普賢菩薩無邊際眼自在力、以¶
 無礙耳識聞持無量諸佛正法自在力、一身¶
 結跏趺坐周遍十方無量法界於諸眾生無¶

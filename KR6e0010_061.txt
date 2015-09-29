@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.357941
+#+DATE: 2015-09-28 22:54:27.102053
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_061-0326c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 61
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六十一¶
+《大方廣佛華嚴經》卷第六十一¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 入法界品第三十九之二
-:END:
-¶
+入法界品第三十九之二¶
 
 爾時，普賢菩薩摩訶薩普觀一切菩薩眾會，¶
 以等法界方便、等虛空界方便、等眾生界方¶
@@ -521,7 +516,7 @@
 無疲厭。普嚴淨十方佛剎，心無疲厭。教化調¶
 伏一切眾生，心無疲厭。於一切剎一切劫中¶
 成就菩薩行，心無疲厭。為成熟一眾生故，修¶
-行一切佛剎微塵數波羅蜜，成就如來十力；¶
+行一切佛剎微塵數波羅蜜，成就如來一力；¶
 如是次第，為成熟一切眾生界，成就如來一切¶
 力，心無疲厭。
 

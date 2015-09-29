@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.237840
+#+DATE: 2015-09-28 22:54:26.983446
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0010_T_058-0304c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 58
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十八¶
+《大方廣佛華嚴經》卷第五十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之六
-:PROPERTIES:
-:head: 離世間品第三十八之六
-:END:
-¶
+離世間品第三十八之六¶
 
 「佛子！菩薩摩訶薩有十種清淨施。何等為十？¶
 所謂：平等施，不揀眾生故；隨意施，滿其所¶
@@ -265,7 +260,7 @@
 為十？所謂：善分別諸法明足；不取著諸法明¶
 足；離顛倒見明足；智慧光照諸根明足；巧發¶
 起正精進明足；能深入真諦智明足；滅煩惱¶
-業成就盡智無生智明足；天眼智普觀察
+業成就盡智無生智明足；大眼智普觀察
 <pb:KR6e0010_T_058-0307b>¶
 明足；宿住念知前際清淨明足；漏盡神通智¶
 斷眾生諸漏明足。是為十。若諸菩薩安住此¶
