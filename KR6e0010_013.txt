@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.800850
+#+DATE: 2015-09-28 22:54:10.949152
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@FU
 #+PROPERTY: LASTPB <pb:KR6e0010_T_013-0062b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十三¶
+《大方廣佛華嚴經》卷第十三¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-9光明覺品
-:PROPERTIES:
-:head: 光明覺品第九
-:END:
-¶
+光明覺品第九¶
 
 爾時，世尊從兩足輪下放百億光明，照此三¶
 千大千世界百億閻浮提、百億弗婆提、百億¶
@@ -617,11 +612,7 @@
 #+END_VERSE
 」¶
 
-10菩薩問明品
-:PROPERTIES:
-:head: 菩薩問明品第十
-:END:
-¶
+菩薩問明品第十¶
 
 爾時，文殊師利菩薩問覺首菩薩言：「佛子！¶
 心性是一。云何見有種種差別？所謂：往善趣、¶
@@ -766,7 +757,7 @@
 　彼無我非我，
 　業性亦如是。¶
 　亦如眾鳥類，
-　從㲉而得出，¶
+　從[穀-禾+卵]而得出，¶
 　音聲各不同，
 　業性亦如是。¶
 　譬如胎藏中，

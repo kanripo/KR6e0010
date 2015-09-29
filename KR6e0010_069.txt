@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.628602
+#+DATE: 2015-09-28 22:54:12.669582
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@FU
 #+PROPERTY: LASTPB <pb:KR6e0010_T_069-0372a> ¶¶¶
 #+PROPERTY: JUAN 69
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六十九¶
+《大方廣佛華嚴經》卷第六十九¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之十
-:PROPERTIES:
-:head: 入法界品第三十九之十
-:END:
-¶
+入法界品第三十九之十¶
 
 爾時，善財童子了知彼婆珊婆演底夜神初¶
 發菩提心所生菩薩藏、所發菩薩願、所淨菩¶
