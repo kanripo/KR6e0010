@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.376567
+#+DATE: 2015-09-28 22:54:04.244753
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_030-0160c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十¶
+《大方廣佛華嚴經》卷第三十¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯三藏實叉難陀奉　制譯¶
 
-之八
-:PROPERTIES:
-:head: 十迴向品第二十五之八
-:END:
-¶
+十迴向品第二十五之八¶
 
 「佛子！何者是菩薩摩訶薩真如相迴向？
 

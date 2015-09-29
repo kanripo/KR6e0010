@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.175274
+#+DATE: 2015-09-28 22:54:05.086055
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_056-0293c> ¶¶¶¶
 #+PROPERTY: JUAN 56
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十六¶
+《大方廣佛華嚴經》卷第五十六¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之四
-:PROPERTIES:
-:head: 離世間品第三十八之四
-:END:
-¶
+離世間品第三十八之四¶
 
 「佛子！菩薩摩訶薩有十種無礙用。何等為十？¶
 所謂：眾生無礙用；國土無礙用；法無礙用；身¶

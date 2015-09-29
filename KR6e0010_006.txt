@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.570807
+#+DATE: 2015-09-28 22:54:03.490790
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_006-0026a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六¶
+《大方廣佛華嚴經》卷第六¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-2如來現相品
-:PROPERTIES:
-:head: 如來現相品第二
-:END:
-¶
+如來現相品第二¶
 
 爾時，諸菩薩及一切世間主，作是思惟：「云¶
 何是諸佛地？云何是諸佛境界？云何是諸佛¶

@@ -1,26 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.093813
+#+DATE: 2015-09-28 22:54:04.996749
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_053-0279a> 
 #+PROPERTY: JUAN 53
 ¶
-
- 《大方廣佛華嚴經》卷第五十三¶
+《大方廣佛華嚴經》卷第五十三¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-38離世間品
-之一
-:PROPERTIES:
-:head: 離世間品第三十八之一
-:END:
-¶
+離世間品第三十八之一¶
 
 爾時，世尊在摩竭提國阿蘭若法菩提場中¶
 普光明殿，坐蓮華藏師子之座，妙悟皆滿，二¶

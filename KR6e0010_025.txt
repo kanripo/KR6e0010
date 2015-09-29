@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.228045
+#+DATE: 2015-09-28 22:54:04.099388
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_025-0133a> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《大方廣佛華嚴經》卷第二十五¶
+《大方廣佛華嚴經》卷第二十五¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 十迴向品第二十五之三
-:END:
-¶
+十迴向品第二十五之三¶
 
 「佛子！云何為菩薩摩訶薩無盡功德藏迴向？¶
 

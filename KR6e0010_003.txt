@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.465305
+#+DATE: 2015-09-28 22:54:03.374811
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUTONGBEN
 #+PROPERTY: LASTPB <pb:KR6e0010_T_003-0010c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《大方廣佛華嚴經》卷第三¶
+《大方廣佛華嚴經》卷第三¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之三
-:PROPERTIES:
-:head: 世主妙嚴品第一之三
-:END:
-¶
+世主妙嚴品第一之三¶
 
 復次，持國乾闥婆王，得自在方便攝一切眾¶
 生解脫門；樹光乾闥婆王，得普見一切功¶
@@ -496,7 +491,7 @@
 　如來境界無與等，
 　種種法門常利益，¶
 　眾生有苦皆令滅，
-　苫末羅王此能見。¶
+　苦末羅王此能見。¶
 　無量劫中修苦行，
 　利益眾生淨世間，¶
 　由是牟尼智普成，
