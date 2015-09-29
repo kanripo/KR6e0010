@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.652628
+#+DATE: 2015-09-28 22:54:07.278452
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0010_T_008-0039a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第八¶
+《大方廣佛華嚴經》卷第八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-5華藏世界品
-之一
-:PROPERTIES:
-:head: 華藏世界品第五之一
-:END:
-¶
+華藏世界品第五之一¶
 
 爾時，普賢菩薩復告大眾言：「諸佛子！此華藏¶
 莊嚴世界海，是毘盧遮那如來往昔於世界¶
@@ -293,8 +287,7 @@
 不絕。若廣說者，一一河各有世界海微塵數¶
 莊嚴。」
 
-爾時，普賢菩薩欲重宣其義，承佛神¶
-力，觀察十方而說頌言：¶
+爾時，普賢菩薩欲重宣其義，承佛神力，觀察十方而說頌言：¶
 
 #+BEGIN_VERSE
 「　「清淨香流滿大河，

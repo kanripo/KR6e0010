@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.969613
+#+DATE: 2015-09-28 22:54:07.562893
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0010_T_017-0088b> 
 #+PROPERTY: JUAN 17
 ¶
-
- 《大方廣佛華嚴經》卷第十七¶
+《大方廣佛華嚴經》卷第十七¶
 ¶
-于闐國三藏實叉難陀奉　制譯¶
+于闐國三藏實叉難陀奉　制譯藏實叉難陀奉　制譯¶
 
-16梵行品
-:PROPERTIES:
-:head: 梵行品第十六
-:END:
-¶
+梵行品第十六¶
 
 爾時，正念天子白法慧菩薩言：「佛子！一切世¶
 界諸菩薩眾，依如來教，染衣出家。云何而得¶
@@ -86,11 +81,7 @@
 發心時即得阿耨多羅三藐三菩提，知一切¶
 法即心自性，成就慧身，不由他悟。」¶
 
-17初發心功德品
-:PROPERTIES:
-:head: 初發心功德品第十七
-:END:
-¶
+初發心功德品第十七¶
 
 爾時，天帝釋白法慧菩薩言：「佛子！菩薩初發¶
 菩提之心，所得功德，其量幾何？」

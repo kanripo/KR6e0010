@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.686581
+#+DATE: 2015-09-28 22:54:07.304559
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0010_T_009-0044a> ¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第九¶
+《大方廣佛華嚴經》卷第九¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 華藏世界品第五之二
-:END:
-¶
+華藏世界品第五之二¶
 
 爾時，普賢菩薩復告大眾言：
 
@@ -49,7 +44,7 @@
 上，五佛剎微塵數世界圍遶，佛號：法喜無¶
 盡慧。此上過佛剎微塵數世界，有世界，名：¶
 尸利華光輪；其形三角，依一切堅固寶莊嚴¶
-海住，菩薩摩尼冠光明雲彌覆其上，六佛剎微¶
+海住，菩薩摩尼冠光明彌覆其上，六佛剎微¶
 塵數世界圍遶，佛號：清淨普光明雲。此上過¶
 佛剎微塵數世界，有世界，名：寶蓮華莊嚴；形¶
 如半月，依一切蓮華莊嚴海住，一切寶華雲¶

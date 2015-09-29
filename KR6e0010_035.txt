@@ -1,30 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.528945
+#+DATE: 2015-09-28 22:54:08.109818
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0010_T_035-0185a> 
 #+PROPERTY: JUAN 35
 ¶
-
- 《大方廣佛華嚴經》卷第三十五¶
+《大方廣佛華嚴經》卷第三十五¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之二
-:PROPERTIES:
-:head: 十地品第二十六之二
-:END:
-
-第二地
-:PROPERTIES:
-:head: 第二地
-:END:
-¶
+十地品第二十六之二
+第二地¶
 
 #+BEGIN_VERSE
 「　諸菩薩聞此，
@@ -113,7 +104,7 @@
 淨，心廣無量故，具足悲愍故，方便所攝故，發¶
 生大願故，不捨眾生故，希求諸佛大智故，淨¶
 治菩薩諸地故，淨修一切諸度故，成菩薩廣¶
-大行。又此上品十善業道，一切種清淨故，乃¶
+大行。又此上上十善業道，一切種清淨故，乃¶
 至證十力、四無畏故，一切佛法皆得成就。是¶
 故我今等行十善，應令一切具足清淨；如是¶
 方便，菩薩當學。』¶
@@ -294,10 +285,6 @@
 」¶
 
 第三地
-:PROPERTIES:
-:head: 第三地
-:END:
-
 <pb:KR6e0010_T_035-0187b>¶
 
 #+BEGIN_VERSE
