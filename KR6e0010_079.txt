@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:20.195500
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:39
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
@@ -15,7 +15,7 @@
 ¶
 三藏實叉難陀奉　制譯¶
 
-¶
+** ¶
 
 爾時，善財童子恭敬右遶彌勒菩薩摩訶薩
 <pb:KR6e0010_T_079-0435a>¶
