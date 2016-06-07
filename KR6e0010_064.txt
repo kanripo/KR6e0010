@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.462072
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_064-0343a> ¶¶
 #+PROPERTY: JUAN 64
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六十四¶
+《大方廣佛華嚴經》卷第六十四¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之五
-:PROPERTIES:
-:head: 入法界品第三十九之五
-:END:
-¶
+** 入法界品第三十九之五¶
 
 爾時，善財童子蒙善知識力，依善知識教，念¶
 善知識語，於善知識深心愛樂，作是念言：「因¶
@@ -602,9 +597,9 @@
 　當知如是人，
 　必獲廣大利，¶
 　坐菩提樹下，
-　成於無上覺。」
+　成於無上覺。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，善財童子即登刀山，自投火聚；未至中¶
 間，即得菩薩善住三昧；纔觸火焰，又得菩薩¶

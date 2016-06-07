@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.103199
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_021-0111a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十一¶
+《大方廣佛華嚴經》卷第二十一¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-22十無盡藏品
-:PROPERTIES:
-:head: 十無盡藏品第二十二
-:END:
-¶
+* 十無盡藏品第二十二¶
 
 爾時，功德林菩薩復告諸菩薩言：
 
@@ -298,8 +293,7 @@
 十生、百生、千生、百千生、無量百千生，成劫、壞¶
 劫、成壞劫、非一成劫、非一壞劫、非一成壞劫，¶
 百劫、千劫、百千億那由他，乃至無數、無量、無¶
-邊、無等、不可數、不可稱、不可思、不可量、不¶
-可說、不可說不可說劫；念一佛名號，乃¶
+邊、無等、不可數、不可稱、不可思、不可量、不可說、不可說不可說劫；念一佛名號，乃¶
 至不可說不可說佛名號；念一佛出世說授¶
 記，乃至不可說不可說佛出世說授記；念¶
 一佛出世說修多羅，乃至不可說不可說¶

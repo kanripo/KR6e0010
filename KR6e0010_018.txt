@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.004288
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_018-0095a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十八¶
+《大方廣佛華嚴經》卷第十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-18明法品
-:PROPERTIES:
-:head: 明法品第十八
-:END:
-¶
+* 明法品第十八¶
 
 爾時，精進慧菩薩白法慧菩薩言：
 
@@ -110,9 +105,9 @@
 　云何無畏如師子，
 　所行清淨如滿月？¶
 　云何修習佛功德，
-　猶如蓮華不著水？」
+　猶如蓮華不著水？」」
 #+END_VERSE
-」¶
+¶
 
 爾時，法慧菩薩告精進慧菩薩言：
 
@@ -468,9 +463,9 @@
 　進止安徐如象王，
 　勇猛無畏猶師子，¶
 　不動如山智如海，
-　亦如大雨除眾熱。」
+　亦如大雨除眾熱。」」
 #+END_VERSE
-」¶
+¶
 
 時，法慧菩薩說此頌已，如來歡喜，大眾奉行。¶
 《大方廣佛華嚴經》卷第十八¶

@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:33.237840
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_058-0304c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 58
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十八¶
+《大方廣佛華嚴經》卷第五十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之六
-:PROPERTIES:
-:head: 離世間品第三十八之六
-:END:
-¶
+** 離世間品第三十八之六¶
 
 「佛子！菩薩摩訶薩有十種清淨施。何等為十？¶
 所謂：平等施，不揀眾生故；隨意施，滿其所¶

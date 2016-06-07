@@ -1,30 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.611631
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_038-0198c> 
 #+PROPERTY: JUAN 38
 ¶
-
- 《大方廣佛華嚴經》卷第三十八¶
+《大方廣佛華嚴經》卷第三十八¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之五
-:PROPERTIES:
-:head: 十地品第二十六之五
-:END:
-
-第八地
-:PROPERTIES:
-:head: 第八地
-:END:
-¶
+** 十地品第二十六之五
+*** 第八地¶
 
 #+BEGIN_VERSE
 「　是時天王及天眾，
@@ -74,9 +65,9 @@
 　時解脫月復請言：
 　「今此眾會皆寂靜，¶
 　願說隨次之所入，
-　第八地中諸行相！」
+　第八地中諸行相！」」
 #+END_VERSE
-」
+
 <pb:KR6e0010_T_038-0199a>¶
 
 爾時，金剛藏菩薩告解脫月菩薩言：
@@ -397,15 +388,11 @@
 　菩薩第八不動地，
 　我為汝等已略說，¶
 　若欲次第廣分別，
-　經於億劫不能盡。」
+　經於億劫不能盡。」」
 #+END_VERSE
-」¶
-
-第九地
-:PROPERTIES:
-:head: 第九地
-:END:
 ¶
+
+*** 第九地¶
 
 #+BEGIN_VERSE
 「　說此菩薩八地時，
@@ -460,9 +447,9 @@
 　如是美音千萬種，
 　歌讚佛已默然住。¶
 　解脫月言：「今眾淨，
-　願說九地所行道！」
+　願說九地所行道！」」
 #+END_VERSE
-」¶
+¶
 
 爾時，金剛藏菩薩告解脫月菩薩言：
 
@@ -757,8 +744,8 @@
 　此是第九善慧地，
 　大智菩薩所行處，¶
 　甚深微妙難可見，
-　我為佛子已宣說。」
+　我為佛子已宣說。」」
 #+END_VERSE
-」¶
+¶
 《大方廣佛華嚴經》卷第三十八¶
 

@@ -1,31 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.582504
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_037-0193b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十七¶
+《大方廣佛華嚴經》卷第三十七¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-之四
-:PROPERTIES:
-:head: 十地品第二十六之四
-:END:
-
-第六地
-:PROPERTIES:
-:head: 第六地
-:END:
-¶
+** 十地品第二十六之四
+*** 第六地¶
 
 #+BEGIN_VERSE
 「　菩薩既聞諸勝行，
@@ -64,9 +55,9 @@
 　如是妙音千萬種，
 　讚已默然瞻仰佛。¶
 　解脫月語金剛藏：
-　「以何行相入後地？」
+　「以何行相入後地？」」
 #+END_VERSE
-」¶
+¶
 
 爾時，金剛藏菩薩告解脫月菩薩言：
 
@@ -326,15 +317,11 @@
 　甚深微妙難見知，
 　聲聞獨覺無能了，¶
 　如是菩薩第六地，
-　我為佛子已宣說。」
+　我為佛子已宣說。」」
 #+END_VERSE
-」¶
-
-第七地
-:PROPERTIES:
-:head: 第七地
-:END:
 ¶
+
+*** 第七地¶
 
 #+BEGIN_VERSE
 「　是時天眾心歡喜，
@@ -385,9 +372,9 @@
 　時解脫月復請言：
 　「此諸大眾心清淨，¶
 　第七地中諸行相，
-　唯願佛子為宣說！」
+　唯願佛子為宣說！」」
 #+END_VERSE
-」¶
+¶
 
 爾時，金剛藏菩薩告解脫月菩薩言：
 
@@ -682,9 +669,9 @@
 　此是菩薩遠行地，
 　方便智慧清淨道，¶
 　一切世間天及人，
-　聲聞獨覺無能知。」
+　聲聞獨覺無能知。」」
 #+END_VERSE
-」¶
+¶
 《大方廣佛華嚴經》卷第三十七
 <pb:KR6e0010_T_037-0198c>¶
 

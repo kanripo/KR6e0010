@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:32.961348
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_049-0257c> ¶¶¶
 #+PROPERTY: JUAN 49
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第四十九¶
+《大方廣佛華嚴經》卷第四十九¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-36普賢行品
-:PROPERTIES:
-:head: 普賢行品第三十六
-:END:
-¶
+* 普賢行品第三十六¶
 
 爾時，普賢菩薩摩訶薩復告諸菩薩大眾言：¶
 
@@ -673,8 +668,8 @@
 　如是無量種，
 　開悟諸世間，¶
 　一切智方便，
-　邊際不可得。」
+　邊際不可得。」」
 #+END_VERSE
-」¶
+¶
 《大方廣佛華嚴經》卷第四十九¶
 

@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:31.403988
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:37
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0279
 #+PROPERTY: ID KR6e0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 279
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0010_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.279[No.278]¶
+No. 279 [No. 278]¶
 
-大周新譯序
-:PROPERTIES:
-:head: 大周新譯《大方廣佛華嚴經》序
-:END:
+* 大周新譯《大方廣佛華嚴經》序¶
 ¶
-¶
-天冊金輪聖神皇帝製¶
+天冊＝策【宮】冊金輪聖神皇帝製冊金輪聖神皇帝製¶
 
 蓋聞：「造化權輿之首，天道未分；龜龍繫象之¶
 初，人文始著。雖萬八千歲，同臨有截之區；七¶
@@ -69,17 +65,11 @@ No.279[No.278]¶
 題序云。¶
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第一¶
+《大方廣佛華嚴經》卷第一¶
 ¶
 于闐國三藏實叉難陀奉　制譯¶
 
-1世主妙嚴品
-之一
-:PROPERTIES:
-:head: 世主妙嚴品第一之一
-:END:
-¶
+** 世主妙嚴品第一之一¶
 
 如是我聞：
 
